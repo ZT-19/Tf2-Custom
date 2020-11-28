@@ -1,0 +1,69 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"RetroServers.net #E01 || Trade #1"
+		"date"		"1530578807"
+		"addr"		"74.91.112.101:27015"
+	}
+	"server"
+	{
+		"name"		"jumpacademy.tf | Easy + Medium Soldier [06:03] | US East"
+		"date"		"1530578842"
+		"addr"		"162.248.89.19:27015"
+	}
+	"server"
+	{
+		"name"		"jumpacademy.tf | Custom Hightower TDM | US Central"
+		"date"		"1531158197"
+		"addr"		"66.151.244.43:27015"
+	}
+	"server"
+	{
+		"name"		"Valve Matchmaking Server (Virginia iad-3/srcds148 #4)"
+		"date"		"1531610083"
+		"addr"		"208.78.165.231:27018"
+	}
+	"server"
+	{
+		"name"		"skial.com | HIGHTOWER+ x10 | US"
+		"date"		"1533586906"
+		"addr"		"104.153.105.98:27016"
+	}
+	"server"
+	{
+		"name"		"    ★ Degree-Gaming.com 24/7 Trade [FREE ITEMS] NY7"
+		"date"		"1537727221"
+		"addr"		"198.50.193.143:27016"
+	}
+	"server"
+	{
+		"name"		"ReverendTurner's TF2 Server [AWS]"
+		"date"		"1538926517"
+		"addr"		"52.6.124.248:27015"
+	}
+	"server"
+	{
+		"name"		"ENGINEER.TF |  MGE Server [Chicago]"
+		"date"		"1538955165"
+		"addr"		"104.128.62.12:27035"
+	}
+	"server"
+	{
+		"name"		"skial.com | TRADE | NY"
+		"date"		"1539018202"
+		"addr"		"158.69.195.198:27016"
+	}
+	"server"
+	{
+		"name"		"    =[pG]=|=(eGO)= HIGHTOWER TDM | NO CRITS | NO SENTRY | FAST+"
+		"date"		"1541553800"
+		"addr"		"74.91.122.104:27015"
+	}
+	"server"
+	{
+		"name"		"na.serveme.tf (#264036)"
+		"date"		"1550367913"
+		"addr"		"70.42.74.181:27015"
+	}
+}
